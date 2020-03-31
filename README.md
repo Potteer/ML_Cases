@@ -1,4 +1,4 @@
-# Casos de uso com uso de Machine Learning
+# Casos de uso com Machine Learning
 > Pequenos cases com utilização de ferramentas de análise de dados e ilustração em gráficos intuitivos.
 
 ## Exemplo de utilização
